@@ -1,0 +1,17 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "SimplyNetwork Master Games [BEP] v1.1.32",
+		"description": "§lCredits:§r\n\nOriginally Created and Bundled By CVXSL#3291\nMaintained By SimplyNetwork\n\n§lBundled Packs:§r\n\n- Kill Counter [BP] | Originally By Roman.#5950\n- Teams [BP] | Originally By Sam, YT: Sammster 10, Discord: discord.gg/9S6K9E5\n- Personal Sidebar / ActionBoard [RP] | Originally By PMK744#5874 and Nobu#1122\n- NPC GUI [RP] | Originally By xFallen54x and Sezra | Edited By mrpatches123\n- Emoji Chat Addon [RP/BP] | Originally By Keyyard\nSmelly API [BP] | Originally By Smell of curry\nSmelly Chat Ranks [RP/BP] | Originally By Smell of curry",
+		"uuid": "273dc6df-5491-48c4-aba1-4df051b456e5",
+		"version": [1, 1, 32],
+		"min_engine_version": [1, 19, 10]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "2ebc36ea-4fa3-490e-9452-d155060ea951",
+			"version": [1, 1, 32]
+		}
+	]
+}
